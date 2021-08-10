@@ -10,4 +10,4 @@ JavaScript
 
 # View Live
 
-[Click Here:](file:///Users/Tika/Desktop/Coding/gratitude_app/index.html)
+[Click Here:](file:///Users/Tika/Desktop/Coding/gratitude_app/index.html) To View
